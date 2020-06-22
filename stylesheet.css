@@ -101,6 +101,7 @@ header {
   margin-top: 10px;
   animation: slideInRight;
   animation-duration: 5s;
+  margin-top: 65px;
 }
 .content-header-left h1 {
   margin-left: 90px;
