@@ -96,7 +96,7 @@ header {
 }
 .content-header-right {
   width: 45%;
-  background-image: url(../DTSH69project-github.io-master/Image/img-1.png);
+  background-image: url(Image/img-1.png);
   background-size: cover;
   margin-top: 10px;
   animation: slideInRight;
